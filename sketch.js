@@ -5,7 +5,7 @@ var playerCount = 0;
 var allPlayers;
 //var Game;
 
-//var player, 
+var player;
 var form,game;
 var player1,player2;
 var players;
